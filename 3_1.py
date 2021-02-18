@@ -22,3 +22,5 @@ def treecount(array):
                 x += 3
 
     return trees
+
+treecount(info)
